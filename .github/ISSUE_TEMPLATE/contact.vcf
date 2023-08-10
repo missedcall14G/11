@@ -1,7 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:missed  Call 
-N:Call ;missed ;;;
+FN:missed Call 
 TEL;TYPE=cell,msg:+966543426262
 EMAIL;TYPE=internet:sami6671@hotmail.com
 ORG:missed call 
